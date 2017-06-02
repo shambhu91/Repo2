@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is D878-5C4E
+
+ Directory of C:\Users\shambhu kumar\Desktop\my project
+
+06/02/2017  08:49 AM    <DIR>          .
+06/02/2017  08:49 AM    <DIR>          ..
+06/02/2017  08:49 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  813,571,088,384 bytes free
